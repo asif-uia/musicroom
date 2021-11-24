@@ -13,3 +13,5 @@ dbconf.cnf
 
 
 node_modules/
+
+**/static/frontend
